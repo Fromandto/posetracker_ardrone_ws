@@ -1,0 +1,8 @@
+prefix=/root/posetracker_ardrone_ws/devel
+
+Name: posetracker_ardrone
+Description: Description of posetracker_ardrone
+Version: 0.0.0
+Cflags: 
+Libs: -L/root/posetracker_ardrone_ws/devel/lib 
+Requires: 

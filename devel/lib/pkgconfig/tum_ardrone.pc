@@ -1,0 +1,8 @@
+prefix=/root/posetracker_ardrone_workspace/devel
+
+Name: tum_ardrone
+Description: Description of tum_ardrone
+Version: 0.0.0
+Cflags: -I/root/posetracker_ardrone_workspace/devel/include
+Libs: -L/root/posetracker_ardrone_workspace/devel/lib 
+Requires: message_runtime std_msgs ardrone_autonomy

@@ -1,0 +1,2 @@
+set(tum_ardrone_MESSAGE_FILES "/root/posetracker_ardrone_workspace/src/tum_ardrone/msg/filter_state.msg")
+set(tum_ardrone_SERVICE_FILES "/root/posetracker_ardrone_workspace/src/tum_ardrone/srv/SetReference.srv;/root/posetracker_ardrone_workspace/src/tum_ardrone/srv/SetMaxControl.srv;/root/posetracker_ardrone_workspace/src/tum_ardrone/srv/SetInitialReachDistance.srv;/root/posetracker_ardrone_workspace/src/tum_ardrone/srv/SetStayWithinDistance.srv;/root/posetracker_ardrone_workspace/src/tum_ardrone/srv/SetStayTime.srv")

@@ -1,0 +1,8 @@
+prefix=/root/posetracker_ardrone_workspace/devel
+
+Name: keyboard
+Description: Description of keyboard
+Version: 0.1.1
+Cflags: -I/root/posetracker_ardrone_workspace/devel/include
+Libs: -L/root/posetracker_ardrone_workspace/devel/lib 
+Requires: roscpp std_msgs message_runtime

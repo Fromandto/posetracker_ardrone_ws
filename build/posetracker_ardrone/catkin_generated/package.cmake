@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "posetracker_ardrone")
+set(posetracker_ardrone_MAINTAINER "root <root@todo.todo>")
+set(posetracker_ardrone_DEPRECATED "")
+set(posetracker_ardrone_VERSION "0.0.0")
+set(posetracker_ardrone_BUILD_DEPENDS "roscpp" "rospy" "std-msgs")
+set(posetracker_ardrone_RUN_DEPENDS "roscpp" "rospy" "std-msgs")
+set(posetracker_ardrone_BUILDTOOL_DEPENDS "catkin")
